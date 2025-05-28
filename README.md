@@ -22,3 +22,29 @@ Atualmente, o site conta com os seguintes jogos:
 - **jogo da memória** – Um jogo da memória simples e interativo.  Criador: [manual do dev ](https://github.com/manualdodev)
 
 Esses jogos são exportados e incorporados em páginas separadas dentro do site.
+---------------------------------------------------------------------------------
+🎮 My Gaming Website
+Welcome to my gaming website!
+This project is a simple site made by me, a programming beginner, focusing on HTML5 and CSS3.
+The entire creation was done with help from OpenAI’s ChatGPT, which guided me step by step.
+
+⚠️ This site is still under development.
+New features and improvements are being added over time.
+
+🚀 About the Project
+Add custom games created in separate pages.
+
+Play directly in the browser with a strong black and purple theme.
+
+Use smooth animations and a responsive design.
+
+Have a sliding sidebar menu with a 🎮 emoji to access the game pages.
+
+🎮 Available Games
+Currently, the site includes the following games:
+
+Mario Mini-Game – A fun and nostalgic Mario-style version. Creator: [leehxd](https://github.com/LeehXD)
+
+Memory Game – A simple and interactive memory game. Creator: [manual do dev](https://github.com/manualdodev)
+
+These games are exported and embedded in separate pages within the site.
